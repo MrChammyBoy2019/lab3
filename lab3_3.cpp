@@ -6,6 +6,7 @@ int main(){
     while (x >= 2){
         y = (1/x) +y;
         x=x-1;
+         
     }
     cout << y ;
     return 0; 
